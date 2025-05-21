@@ -1,5 +1,5 @@
 # Hi 👋, I'm Abdulhaleem  
-### Backend Developer | NestJS | PostgreSQL | Docker | Kubernetes  
+### Backend Developer | NestJS | Express.js | PostgreSQL | Docker | Kubernetes  
 
 I’m a **backend developer** passionate about **building scalable APIs, optimizing database performance, and automating deployments**. With expertise in **NestJS, PostgreSQL, Docker, and Kubernetes**, I specialize in **designing efficient architectures, implementing secure authentication systems, and ensuring high-performance applications**.  
 
