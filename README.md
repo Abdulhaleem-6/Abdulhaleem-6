@@ -11,8 +11,8 @@ I love solving **complex backend challenges**, debugging the unexplainable, and 
 - 🌍 **Based in:** Lagos, Nigeria  
 - 🖥️ **Portfolio:** [My GitHub](https://github.com/Abdulhaleem-6)  
 - ✉️ **Contact:** [abdulhaleemsanuth@gmail.com](mailto:abdulhaleemsanuth@gmail.com)  
-- 🛠️ **Currently Working On:** [Debt Tracker](https://github.com/AbdurrahmanSogbesan/debt-tracker-api.git) – A **loan tracking and bill-splitting platform** built with **NestJS & PostgreSQL**  
-- 🧐 **Currently Learning:** React.js (because why not add frontend to the chaos?)  
+- 🛠️ **Currently Working On:** [Vascan Arts](https://www.vascan.io/) – Building the backend for an e-commerce marketplace for contemporary African art, using MongoDB, Redis, and Express.js. 
+- 🧐 **Currently Learning:** System Design (because why not upskill and better myself?)  
 - 🤝 **Open to Collaborating On:** Backend-heavy projects with **scalable architectures, API development, and DevOps automation**  
 - ⚡ **Fun Fact:** I once spent hours debugging a bug that didn’t exist… turns out I forgot to save the file.  
 
